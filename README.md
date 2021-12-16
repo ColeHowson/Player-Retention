@@ -23,6 +23,15 @@ One particular interest of mine was player spending. I wanted to see if retained
 For my final query, I wanted to see how the retention percentage looked across the player ages. Like my previous query, I began with my “retention table”. I nested it in an outer query that would pull out the age column for my final table. After that, I followed a similar methodology as in my first table to achieve a retainment percentage. Although this time I grouped by age to aggregate the data. 
 
 
+## Visulizations
+
+### 1.Player Retention Over Year
+
+I utilized a line chart to show the retainment  percentage across the days of the year. I also included an average line that runs the length of the chart. This allows the viewer to see if a specific day was above or below the yearly average for retention.
+
+![viz_1](visualizations/player_retention_over_year.png)
+
+
 
  ## Insights/Recommendations
 
